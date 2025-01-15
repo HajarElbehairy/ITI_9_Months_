@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1731895792 source:c:\users\dell\desktop\iti_2024\introduction_to_c\test\main.c
+	<stdio.h>
+	<stdlib.h>
+
