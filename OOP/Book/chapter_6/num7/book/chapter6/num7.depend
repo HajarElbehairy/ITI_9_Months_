@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1732897525 source:c:\users\dell\desktop\iti_2024\course_1\oop\num7\book\chapter6\main.cpp
+	<iostream>
+
+1732897707 source:c:\users\dell\desktop\iti_2024\course_1\oop\book\chapter_6\num7\book\chapter6\main.cpp
+	<iostream>
+	<iomanip>
+

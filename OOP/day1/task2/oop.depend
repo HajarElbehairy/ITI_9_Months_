@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1730464921 source:c:\users\dell\desktop\iti_2024\course_1\oop\task2\day1\main.cpp
+	<iostream>
+	<string.h>
+
